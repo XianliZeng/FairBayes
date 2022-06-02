@@ -1,9 +1,10 @@
-# Supplementary material for NeurIPS 2022 submission
+This folder contains code for the FairBayes algorithm to estimate the Fair Bayes-optimal classifier under Group Fairness:
+
+Zeng, X., Dobriban, E., & Cheng, G. (2022). Bayes-Optimal Classifiers under Group Fairness. arXiv preprint arXiv:2202.09724.
+
 
 Run the following command to install the required packages:
-```bash
 pip install -r requirements.txt
-```
 
 
 ### Supported benchmark datasets 
